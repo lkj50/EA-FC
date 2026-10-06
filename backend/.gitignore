@@ -1,0 +1,5 @@
+node_modules/
+.env*
+!.env.example
+scripts/seed/ea_raw.json
+scripts/seed/teams.txt

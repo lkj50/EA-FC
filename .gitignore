@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.expo/
+dist/
+web-build/
+build/
+*.log
+.DS_Store
+torneo-fc/scripts/seed/ea_raw.json
+torneo-fc/scripts/seed/teams.txt
+ios/
+android/
