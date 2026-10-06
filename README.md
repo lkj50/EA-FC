@@ -17,7 +17,7 @@ La app móvil solo se comunica con el backend. El backend valida sesiones, aplic
 
 ### Seed
 
-Coloca `ea_raw.json` en `torneo-fc/scripts/seed/` (se mantiene local y no se versiona), configura las variables desde `.env.example` y ejecuta:
+Coloca `ea_raw.json` en `torneo-fc/scripts/seed/`, configura las variables desde `.env.example` y ejecuta:
 
 ```sh
 cd torneo-fc/scripts/seed
